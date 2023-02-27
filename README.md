@@ -7,4 +7,4 @@
 
 # Mis repositorios
 
-[Mi repositorio de prueba](https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg) Este es mi primer repositorio
+[Mi repositorio de prueba](https://github.com/Enric14/MiPrimerReopsitorio.git) Este es mi primer repositorio
